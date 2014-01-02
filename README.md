@@ -67,3 +67,7 @@ If everything went well you should see [this](http://jsfiddle.net/ksRyQ/).
 ### Change log ###
 
 [releases](https://github.com/mrdoob/three.js/releases)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/3d_js_lib/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
